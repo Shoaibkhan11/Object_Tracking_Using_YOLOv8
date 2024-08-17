@@ -21,6 +21,6 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: git clone https://github.com/Shoaibkhan11/Object_Tracking_Using_YOLOv8.git
 2. Install the required dependencies: pip install -r requirements.txt
-3. 3. Run the Streamlit application: streamlit run app.py
+3. Run the Streamlit application: streamlit run app.py
 
    
